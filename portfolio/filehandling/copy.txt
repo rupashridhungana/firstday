@@ -1,0 +1,4 @@
+Python is fun.
+File handling makes it powerful.
+Exception handling makes it reliable.
+this is textthi is texthellohelloyesuhelloyessyes
